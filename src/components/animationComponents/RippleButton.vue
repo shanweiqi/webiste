@@ -1,4 +1,5 @@
 <template>
+<!-- 波纹按钮 -->
   <div>
     <a href="#" id="bt" @click="showPopup"
       >Button

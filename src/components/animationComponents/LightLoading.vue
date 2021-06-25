@@ -1,4 +1,5 @@
 <template>
+<!-- 聚光加载 -->
   <div class="container">
     <div class="loader">
       <span></span>
